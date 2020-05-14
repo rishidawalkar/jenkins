@@ -1,4 +1,3 @@
-package first;
 
 public class P1 {
 
